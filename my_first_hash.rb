@@ -1,5 +1,5 @@
 def my_hash
-  my_playlist
+  my_playlist = { sad => 
 
   
 end
