@@ -31,3 +31,4 @@ def adding
   }
   
 end
+shipping_manifest
